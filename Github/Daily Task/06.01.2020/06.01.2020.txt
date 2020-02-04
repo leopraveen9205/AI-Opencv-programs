@@ -1,0 +1,48 @@
+
+matploit is a lib where it is usee to plot a image,it is 2d ploting lib and pylot is impoted in matploit
+
+pillow is a lib it is img mainipualtion and processing used to cut resize and filter
+image is impor from lib
+
+what is virt envi:
+It is often useful to have one or more Python environments where you can experiment with different combinations of packages without affecting your main installation. Python supports this through virtual environments. The virtual environment is a copy of an existing version of Python with the option to inherit existing packages. A virtual environment is also useful when you need to work on a shared system and do not have permission to install packages as you will be able to install them in the virtual environment.
+
+use of virt envi
+What Is a Virtual Environment? At its core, the main purpose of Python virtual environments is to create an isolated environment for Python projects. This means that each project can have its own dependencies, regardless of what dependencies every other project has.
+
+advantages of virtual envi:
+virtualenv is a tool used to create an isolated workspace for a Python application. It has various advantages such as the ability to install modules locally, export a working environment, and execute a Python program in that environment.
+
+how to create
+
+who used it 
+
+what it is
+system variable,environment variable
+
+practice envronment variable
+
+
+Numpy:
+numpy array is the scientific computing and it contains n dimensional array objects.
+advantage:
+fast
+less memory
+convienient
+
+1dim array---1 row columns
+2dim array--- 2 rows more colums
+
+numpy operations :
+find dim of array
+find byte size of each element
+find data type of element
+size 
+shape
+reshape-rows and coloums
+slicing---(0:2 ,3)
+min,max,sum
+squareroot,SD
+
+
+

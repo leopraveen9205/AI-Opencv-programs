@@ -1,0 +1,13 @@
+decission tree 
+algo- use --data predict
+
+values koduthtu check
+
+input and output given predict by algortm
+
+meaning for every line in code
+
+machine learning basic algo
+types
+library
+open cv

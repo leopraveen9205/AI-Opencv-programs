@@ -1,0 +1,2 @@
+
+Varible---is a memory that can asaign a value

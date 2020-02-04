@@ -1,0 +1,75 @@
+Open CV tutorial: open souce computer vission
+
+Computer Vision is an interdisciplinary field that deals with "how computers can be made to gain a high-level understanding from digital images or videos"
+
+Computer vision is a multidisciplinary scientific field that operates on digital images or videos to automate tasks that the human visual system can do.
+how to=he
+Computer vision tasks include gathering, processing and analyzing the information from digital images. 
+
+The idea here is to automate tasks that the human visual systems can do. So, a "computer should be able to recognize objects such as that of a face of a human being or a lamppost or even a statue"
+
+How Does A Computer Read An Image?
+The computer reads any image as a range of values between 0 and 255.
+For any color image, there are 3 primary channels – Red, green and blue. How it works is pretty simple.
+A matrix is formed for every primary color and later these matrices combine to provide a Pixel value for the individual R, G, B colors.
+
+Each element of the matrices provide data pertaining to the intensity of brightness of the pixel
+As shown, the size of the image here can be calculated as B x A x 3.
+
+Note: For a black-white image, there is only one single channel.
+coloured image-- 3d matrix
+grey scale --- 2d matrix
+
+NumPy Array: Numpy array is a powerful --"N-dimensional array object which is in the form of rows and columns" 
+We can initialize numpy arrays from nested Python lists and access it elements. 
+In order to perform these numpy operations, 
+
+cobal---how to use
+
+AI
+Opencv
+Opencv libraries
+opencv steps
+
+AI:
+Artificial Intelligence or simply AI is an experimental science being developed with the purpose to understand the nature of intelligent thought and subsequent action. 
+It is presented by machines or software (computer).
+
+What is Artificial Intelligence?
+AI is a technique that enables machines to mimic human behavior. Artificial Intelligence is the theory and development of computer systems able 
+to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making and translation between languages.
+
+Artificial Intelligence is accomplished by studying how human brain thinks, learns, decide, and work while trying to solve a problem, 
+and then using the outcomes of this study as a basis of developing intelligent software and systems. 
+So, Let’s continue this Artificial Intelligence Tutorial and understand it’s importance.
+
+Importance of Artificial Intelligence
+Artificial Intelligence (AI) has made it possible for machines to ----" learn from experience and grow to perform human-like tasks "--learn and perform--self driving chat bot.
+Deep Learning and Natural Language Processing. Using these technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data.
+
+There are a lot of Areas which contribute to Artificial Intelligence namely:
+
+Mathematics
+Sociology
+Philosophy
+Computer Science
+Psychology
+NeuroScience
+Biology
+
+Applications of Artificial Intelligence:
+Speech Recognition
+Machine Translation
+Facial Recognition and Automatic Tagging
+Virtual Personal Assistants
+Self Driving Car
+Chatbots
+
+Domains of Artificial Intelligence
+Neural Networks
+Robotics
+Expert Systems
+Fuzzy Logic Systems
+Natural Language Processing
+
+

@@ -1,0 +1,40 @@
+
+digit regognition
+https://www.sitepoint.com/keras-digit-recognition-tutorial/
+
+handwrittenig digit regog
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
+face detection
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
+
+numpy tutorial
+
+pyteseract
+https://www.youtube.com/results?search_query=pytesseract+tutorial+python+
+
+socer game
+https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2
+
+face detection
+https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
+
+obj detection
+https://www.edureka.co/blog/tensorflow-object-detection-tutorial/
+
+basic of image processing
+https://www.analyticsvidhya.com/blog/2014/12/image-processing-python-basics/
+
+https://www.analyticsvidhya.com/blog/2019/10/8-latest-computer-vision-sessions-datahack-summit-2019/
+
+https://www.analyticsvidhya.com/blog/2019/12/image-augmentation-deep-learning-pytorch/
+
+https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+
+https://www.kaggle.com/vishalyo990/prediction-of-quality-of-wine/comments
+
+
+
+
+
+

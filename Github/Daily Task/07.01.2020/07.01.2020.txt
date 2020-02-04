@@ -1,0 +1,19 @@
+Numpy :
+determinants of matrix---again
+
+In numpy (height , width , channels)-----remaining is -(width, height, channel)
+
+Image in np color:
+0 1---blue
+1 0---blue
+1 1---voilate
+2 1--- red
+1 2--- red
+2 2----yellow
+2 0--- green
+0 2--- green
+
+In numpy image color ( without opencv)- R,G,B--value is 0,1,2
+if you want to remove bule,give 2 to 0 value
+pic_red[:, :, 2] = 0
+pic_red[:, :, 2] = 0

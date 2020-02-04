@@ -1,0 +1,12 @@
+Opencv---all
+image adding ---android and 
+scikit learn
+numpy
+
+
+
+
+
+
+
+ 
